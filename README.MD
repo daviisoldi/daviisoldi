@@ -5,7 +5,7 @@ Olá, me chamo Davi Isoldi 👋
 </p>
 
 <p align="left">
-  🎓 Estudando Sistemas de Informação na Associação Educacional Dom Bosco. (3º Período)
+  🎓 Estudando Sistemas de Informação na Associação Educacional Dom Bosco.
 </p>
 
 <p align="left">
