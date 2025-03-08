@@ -13,7 +13,7 @@ Olá, me chamo Davi Isoldi 👋
 </p>
 
 <p align="left">
-  🌱 Aprendendo mais sobre SQL, Python, PowerBI.
+  🌱 Aprendendo mais sobre SQL, Python, PowerBI. (3º Período)
 </p>
 
 <br/>
