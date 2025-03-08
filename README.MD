@@ -9,7 +9,7 @@ Olá, me chamo Davi Isoldi
 </p>
 
 <p align="left">
-  💼 Em busca de um estágio.
+  💼 Em busca de um estágio!
 </p>
 
 <p align="left">
